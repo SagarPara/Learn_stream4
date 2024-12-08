@@ -1,1 +1,3 @@
-print("this time its virutal 1")
+import streamlit as st
+
+st.titile("Hey, its first time on Streamlit web! Happy :)")
